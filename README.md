@@ -21,7 +21,7 @@ The system contains 8 hospital departments and 17 weighted directed connections 
 
 ### 📘 Detailed Project Documentation
 
-<a href="./emon_sir_assignment.pdf">
+<a href="./Smart Hospital Management System Using Graph Algorithms and Huffman Coding.pdf>
     <img src="https://img.shields.io/badge/📄-View%20Full%20Report-red?style=for-the-badge">
 </a>
 
